@@ -1,4 +1,4 @@
-In the near future, this repository will contain examples of the MATLAB C-SCAT code used in "Quantitative Label-free Characterization of Nanoparticles and Subcellular Structures in Cells Using Confocal Scattering Microscopy". The current example codes and data includes particle on glass, particle in cells, and structures in cells. Note that that the amount of example data per example case is limited compared to the what is shown in the manuscript due to the size of the microscopy videos.
+This repository contains examples of the MATLAB C-SCAT code used in "Quantitative Label-free Characterization of Nanoparticles and Subcellular Structures in Cells Using Confocal Scattering Microscopy", soon to be published in npj Imaging. The current example codes and data includes particle on glass, particle in cells, and structures in cells. Note that that the amount of example data per example case is limited compared to the what is shown in the manuscript due to the size of the microscopy videos.
 
 Requirements: The code is based on MATLAB 2022 with 'Image processing toolbox' and 'Curve fitting toolbox'.
 
